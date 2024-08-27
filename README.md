@@ -20,6 +20,5 @@ This project uses the Chicago Taxi Trip dataset and weather API. Every part of t
     - Athena - Analyze data in S3 using standard SQL
     - Boto3 - AWS SDK for Python, for interacting with AWS services
  
-# Data visualizations with matplotlib and seaborn 
-# kivág majd ctrl shift + v vel megnézhetem h néz ki
+# Data visualizations with matplotlib and seaborn
 
