@@ -21,9 +21,8 @@ This project uses the Chicago Taxi Trip dataset and weather API. Every part of t
     - Boto3 - AWS SDK for Python, for interacting with AWS services
  
 # Data visualizations with matplotlib and seaborn 
-![alt text](image-5.png)
-![alt text](image-6.png)
-![alt text](image-7.png)
-![alt text](image-8.png)
-![alt text](image-9.png)
-
+![alt text](image-10.png)
+![alt text](image-11.png)
+![alt text](image-12.png)
+![alt text](image-13.png)
+![alt text](image-14.png)
